@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-purple-600 {
+  color: #7c3aed;
+}
+.text-blue-600 {
+  color: #2563eb;
+}
+.text-green-600 {
+  color: #16a34a;
+}
+.text-red-600 {
+  color: #dc2626;
+}
+.text-yellow-600 {
+  color: #ca8a04;
+}
